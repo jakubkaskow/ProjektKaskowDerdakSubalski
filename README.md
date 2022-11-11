@@ -1,6 +1,6 @@
 # ProjektKaskowDerdakSubalski
 
-Projekt na zlaiczneie ćwiczeń z Projektowania aplikacji mobilnych 
+Projekt na zaliczneie ćwiczeń z Projektowania aplikacji mobilnych 
 Grupa:L_III_NW_INF_GK
 Skład grupy projektowej: Kamil Derdak 75938, Jakub Kaśków 75930, Hubert Subalski 78505
 
